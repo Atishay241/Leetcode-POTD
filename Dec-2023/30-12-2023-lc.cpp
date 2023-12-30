@@ -5,7 +5,7 @@ using namespace std;
 /*
 
 Author : Atishay Gupta
-Date : 29/12/2023
+Date : 30/12/2023
 Problem : Redistribute Characters to make all String Equal
 Difficulty : Easy
 Problem Link : https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30
