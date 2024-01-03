@@ -5,7 +5,7 @@ using namespace std;
 /*
 
 Author : Atishay Gupta
-Date : 01/01/2024
+Date : 02/01/2024
 Problem : Convert an Array into 2D Array with Conditions
 Difficulty : Medium
 Problem Link : https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02
