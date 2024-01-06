@@ -1,7 +1,7 @@
 /*
 
 Author : Atishay Gupta
-Date : 05/01/2024
+Date : 06/01/2024
 Problem : Maximum Profit in Job Scheduling
 Difficulty : Hard
 Problem Link : https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06
